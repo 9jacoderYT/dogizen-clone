@@ -1,13 +1,13 @@
-import Faq from "@/app/components/faq";
-import Footer from "@/app/components/footer";
-import GameSlider from "@/app/components/game-slider";
-import HeroSection from "@/app/components/hero-section";
-import HowToBuy from "@/app/components/how-to-buy";
-import MediaSection from "@/app/components/media-section";
-import PartnersSlider from "@/app/components/partners-sliders";
-import RoadMap from "@/app/components/roadmap";
-import Tokenomics from "@/app/components/tokenomics";
-import FloatingCredit from "@/app/components/floating-credit";
+import Faq from "@/components/faq";
+import FloatingCredit from "@/components/floating-credit";
+import Footer from "@/components/footer";
+import GameSlider from "@/components/game-slider";
+import HeroSection from "@/components/hero-section";
+import HowToBuy from "@/components/how-to-buy";
+import MediaSection from "@/components/media-section";
+import PartnersSlider from "@/components/partners-sliders";
+import RoadMap from "@/components/roadmap";
+import Tokenomics from "@/components/tokenomics";
 
 export default function Home() {
   return (
